@@ -1,4 +1,4 @@
-//which element to create ui?https://editor.p5js.org/jht9629-nyu/sketches/AnDswZ6eY 
+
 //basic element/inspiration: https://editor.p5js.org/codingtrain/sketches/Sl8ml_Lz8
 
 let circR;
