@@ -16,16 +16,6 @@ function setup() {
   //  create_ui();
 }
 
-//function create_ui() {
-//createElement('br');
-// createSpan().id("id_mouseX");
-// createSpan().id("id_mouseY");
-//}
-
-//function update_ui() {
-// select("#id_mouseX").html("[mouseX=" + mouseX + "] ");
-// select("#id_mouseY").html("[mouseY=" + mouseY + "] ");
-//}
 
 function draw() {
   //background
